@@ -33,9 +33,7 @@ This app uses scikit-learn classifiers trained on the full Iris dataset. No mode
  Requirements
 
 See requirements.txt.
- Screenshots
 
-Add screenshots here if needed.
  Dataset
 
     Iris dataset from scikit-learn’s built-in datasets.
